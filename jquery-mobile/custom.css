@@ -1,0 +1,7 @@
+p {
+text-justify: newspaper; 
+text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+	padding-top:5px;
+}
